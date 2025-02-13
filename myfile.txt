@@ -1,3 +1,4 @@
 hello world
 newline for issue1
 newline from issue2
+newline from issue3
